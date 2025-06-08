@@ -1,0 +1,102 @@
+
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: #fff0f5;
+      color: #333;
+    }
+
+    header {
+      background: linear-gradient(to right, #234bb8, #b83131);
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      font-size: 3em;
+      margin-bottom: 10px;
+    }
+
+    section {
+      padding: 30px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+
+    .fade-in {
+  opacity: 0;
+  animation: fade 2s ease forwards;
+}
+
+@keyframes fade {
+  to {
+    opacity: 1;
+  }
+}
+
+    .photos {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 15px;
+      margin-top: 20px;
+    }
+
+    .photos img {
+      width: 100%;
+      height: 75%;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+
+    .text-content {
+      background: #ffe4e1;
+      padding: 20px;
+      border-radius: 10px;
+      margin-top: 30px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+
+    .bible-verses {
+  background: #fff5f8;
+  padding: 25px;
+  border-radius: 12px;
+  margin-top: 40px;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+}
+
+.bible-verses h2 {
+  text-align: center;
+  color: #d63384;
+  margin-bottom: 20px;
+}
+
+.bible-verses p {
+  font-size: 1.1em;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+    .languages {
+      margin-top: 40px;
+      text-align: center;
+    }
+
+    .languages h2 {
+      margin-bottom: 15px;
+      color: #ff4b91;
+    }
+
+    .languages p {
+      font-size: 1.2em;
+      line-height: 1.6;
+    }
+
+    footer {
+      background: #ffd1dc;
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+      font-size: 0.9em;
+    }
+
