@@ -4,6 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <link rel="stylesheet" href="style.css">
+   <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
 </head>
 <body>
 
@@ -13,7 +14,7 @@
   </header>
 
   <section>
-    <h2>Nossas lembranças</h2>
+    <h2>Nossas lembranças:</h2>
   <div class="photos">
     <figure>
       <img class="fade-in" src="image.png" alt="Foto 1" />
@@ -58,14 +59,14 @@ Eu te amo profundamente, e vou te amar como Cristo ama a Sua igreja.</p>
     </div>
 
     <div class="bible-verses">
-  <h2>Versículos sobre o Amor 💖</h2>
+  <h2>Versículo💖</h2>
   <p>
     📖 <strong>1 Coríntios 13:4-7</strong><br/>
     O amor é paciente, o amor é bondoso. Não inveja, não se vangloria, não se orgulha. 
     Não maltrata, não procura seus interesses, não se ira facilmente, não guarda rancor. 
     O amor não se alegra com a injustiça, mas se alegra com a verdade. Tudo sofre, tudo crê, tudo espera, tudo suporta.
   </p>
-  </div>
+
     <div class="languages">
      
         <h2>Eu te amo em várias línguas 🌍</h2>
@@ -83,11 +84,28 @@ Eu te amo profundamente, e vou te amar como Cristo ama a Sua igreja.</p>
         Russo: Я тебя люблю (Ya tebya lyublyu)
       </p>
     </div>
+  </div>
   </section>
 
   <footer>
     <b>Feito para você — Feliz dia dos Namorados, minha princesa!!</b>
   </footer>
+<script>
+    function createHeart() {
+      const heart = document.createElement("div");
+      heart.classList.add("heart");
+      heart.style.left = Math.random() * 100 + "vw";
+      heart.style.fontSize = Math.random() * 16 + 16 + "px";
+      heart.textContent = "❤️";
+      document.body.appendChild(heart);
+
+      setTimeout(() => {
+        heart.remove();
+      }, 6000);
+    }
+
+    setInterval(createHeart, 300);
+  </script>
 
 </body>
 </html>

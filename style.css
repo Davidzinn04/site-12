@@ -1,7 +1,7 @@
 
     body {
       margin: 0;
-      font-family: 'Segoe UI', sans-serif;
+       font-family: 'Poppins', sans-serif;
       background: #fff0f5;
       color: #333;
     }
@@ -13,9 +13,10 @@
       text-align: center;
     }
 
-    header h1 {
-      font-size: 3em;
-      margin-bottom: 10px;
+   header h1 {
+      font-family: 'Great Vibes', cursive;
+      font-size: 3.5em;
+      color: #fff;
     }
 
     section {
@@ -100,3 +101,24 @@
       font-size: 0.9em;
     }
 
+    
+.heart {
+      position: fixed;
+      top: -50px;
+      font-size: 24px;
+      color: #ff6699;
+      animation: fall 6s linear infinite;
+      opacity: 0.8;
+      z-index: 999;
+    }
+
+    @keyframes fall {
+      0% {
+        transform: translateY(-100px) rotate(0deg);
+        opacity: 1;
+      }
+      100% {
+        transform: translateY(100vh) rotate(360deg);
+        opacity: 0;
+      }
+    }
