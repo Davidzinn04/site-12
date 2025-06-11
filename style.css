@@ -4,13 +4,20 @@
        font-family: 'Poppins', sans-serif;
       background: #fff0f5;
       color: #333;
+       background-image: url('amor.png'); /* caminho da sua imagem */
+      background-size: cover; /* faz a imagem cobrir toda a tela */
+      background-repeat: no-repeat; /* evita repetição da imagem */
+      background-position: center; /* centraliza a imagem */
     }
 
     header {
-      background: linear-gradient(to right, #234bb8, #b83131);
-      color: white;
-      padding: 40px 20px;
       text-align: center;
+      padding: 80px 20px 40px;
+      background: linear-gradient(to right, #940005, #c40101);
+    }
+
+    header p{
+      color: #fff;
     }
 
    header h1 {
@@ -50,12 +57,13 @@
       box-shadow: 0 4px 8px rgba(0,0,0,0.2);
     }
 
+    
     .text-content {
       background: #ffe4e1;
       padding: 20px;
       border-radius: 10px;
       margin-top: 30px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
     }
 
     .bible-verses {
@@ -67,6 +75,12 @@
 }
 
 .bible-verses h2 {
+  text-align: center;
+  color: #d63384;
+  margin-bottom: 20px;
+}
+
+.bible-verses h3 {
   text-align: center;
   color: #d63384;
   margin-bottom: 20px;
@@ -94,8 +108,9 @@
     }
 
     footer {
-      background: #ffd1dc;
+      background: #a70000;
       text-align: center;
+      color: #ffe4e1;
       padding: 20px;
       margin-top: 40px;
       font-size: 0.9em;
