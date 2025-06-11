@@ -32,29 +32,73 @@
 
     <div class="text-content">
       <h2>Para você...</h2>
-      <p>Meu amor,</p>
+     <p>Meu amor,</p>
 
-<p>Desde que você entrou na minha vida, tudo ficou mais bonito. Cada sorriso seu é um presente, e cada momento com você é especial.</p>
+<p>Desde o dia em que decidimos tentar de novo, minha vida mudou por completo.</p>
 
-<p>Eu sou imensamente grato por ter você na minha vida. Você é uma das maiores bênçãos que Deus me deu, e tudo o que eu mais quero é te ver feliz, com esse sorriso lindo e único que ilumina até os meus dias mais difíceis. Você é especial demais, e eu admiro cada detalhe seu. Sou seu fã número 1, de coração.</p>
+<p>Não consigo mais parar de pensar em você.</p>
 
-<p>Quero te fazer se sentir amada, segura e valorizada todos os dias. Não quero que o que eu sinto fique só nas palavras — quero te provar com atitudes, com cuidado, com presença. Pode sempre contar comigo. Eu quero ser o teu porto seguro, o teu refúgio, o teu lar.</p>
+<p>Em todo momento, o que mais quero é estar ao seu lado.</p>
 
-<p>Você é incrível, perfeita do jeitinho que é. E eu, sinceramente, fico bobo com o teu sorriso, com o teu jeito, com essa beleza tão única que só você tem. Às vezes eu nem sei como expressar tudo o que sinto, mas preciso que você saiba: você é a única que eu quero. A pessoa com quem eu sonho dividir minha vida, construir um futuro, enfrentar os desafios e celebrar todas as conquistas.</p>
+<p>Meus pensamentos estão em você o tempo todo, e tudo o que eu mais desejo é te ver bem, feliz, sorrindo.</p>
 
-<p>Não existe mais ninguém pra mim. É você.<br/>
-O meu coração é seu. E toda vez que te vejo, é como se fosse a primeira vez — ele dispara, meus olhos brilham, e eu só consigo pensar que você é a resposta de todas as minhas orações.</p>
+<p>Você transformou a minha rotina, meus planos, o meu jeito de viver.</p>
 
-<p>Se tiver algo que eu possa te fazer entender, é isso:<br/>
-Você é tudo pra mim.<br/>
-É com você que eu quero viver, crescer, sonhar, amar e caminhar todos os dias da minha vida.</p>
+<p>Estar com você faz a vida mais leve.</p>
 
-<p>Que você tenha um dia maravilhoso.<br/>
-Fica com Deus.<br/>
-Eu estarei aqui, sempre, pra tudo o que você precisar.<br/>
-Eu te amo profundamente, e vou te amar como Cristo ama a Sua igreja.</p>
+<p>Te olhar, ver esse sorriso lindo, me traz uma paz que eu nem sabia que existia.</p>
 
-<p>Minha princesa, minha futura esposa, meu amor pra vida inteira.🤍✨</p>
+<p>E os teus olhos… ah, teus olhos me hipnotizam.</p>
+
+<p>Cada dia que passa, me vejo ainda mais apaixonado por ti.</p>
+
+<p>Tenho vontade de dizer “eu te amo” várias e várias vezes sempre que estou com você — e isso nunca vai ser exagero.</p>
+
+<p>Porque é exatamente o que eu sinto: <strong>amor verdadeiro</strong>, forte, constante.</p>
+
+<p>Quero te fazer a mulher mais feliz desse mundo.</p>
+
+<p>Quero te amar como Cristo ama a Sua igreja — com entrega, respeito, cuidado e propósito.</p>
+
+<p>Desejo um relacionamento leve, cheio de conquistas, onde a gente se apoie, cresça junto e caminhe lado a lado, sempre de mãos dadas.</p>
+
+<p>Quero ser o teu porto seguro, o teu refúgio, o teu lar.</p>
+
+<p>E quero provar esse amor não só com palavras, mas com atitudes, com presença, com carinho diário.</p>
+
+<p>Você é uma das maiores bênçãos que Deus me deu.</p>
+
+<p>E eu sou grato demais por ter você na minha vida.</p>
+
+<p>O seu sorriso ilumina até os meus dias mais difíceis.</p>
+
+<p>Você é especial demais — perfeita no seu jeito, linda em cada detalhe.</p>
+
+<p>Sou teu fã número 1, de coração.</p>
+
+<p>Não existe mais ninguém pra mim.</p>
+
+<p>É você. Sempre foi e sempre vai ser.</p>
+
+<p>O meu coração é seu.</p>
+
+<p>E toda vez que te vejo, é como se fosse a primeira vez — ele dispara, meus olhos brilham, e eu só consigo pensar que você é a resposta de todas as minhas orações.</p>
+
+<p>Se tem algo que eu quero que você saiba com toda certeza do mundo é:</p>
+
+<p><strong>Você é tudo pra mim.</strong></p>
+
+<p>É com você que eu quero viver, crescer, sonhar, amar e caminhar todos os dias da minha vida.</p>
+
+<p>Que você tenha um dia lindo e abençoado.</p>
+
+<p>Fica com Deus.</p>
+
+<p>Estarei sempre aqui, pra tudo o que você precisar.</p>
+
+<p><strong>Eu te amo profundamente.</strong></p>
+
+<p>Minha princesa, minha futura esposa, meu amor pra vida inteira. 🤍✨</p>
 
     </div>
 
@@ -66,6 +110,27 @@ Eu te amo profundamente, e vou te amar como Cristo ama a Sua igreja.</p>
     Não maltrata, não procura seus interesses, não se ira facilmente, não guarda rancor. 
     O amor não se alegra com a injustiça, mas se alegra com a verdade. Tudo sofre, tudo crê, tudo espera, tudo suporta.
   </p>
+
+  <p>
+    📖 <strong>Cânticos 4:7</strong><br/>
+    Você é toda linda, minha querida; em você não há defeito algum. 
+  </p>
+
+  <p>
+     <h2> 𝄞 Musicas</h2><br/>
+   Um amor tão puro… que ainda nem sabe a força que tem. É teu e de mais ninguém. Te adoro em tudo, tudo, tudo. Quero mais que tudo te amar sem limites, viver uma grande história, dessas que a gente escreve com o coração.
+
+Diga pra mim que é real, que você também sentiu o que eu senti. Se disser, eu te prometo meu melhor. Porque quando olho pra você, vejo teu querer confesso, te queria a vida toda, sem precisar de estrada nenhuma. Só eu e você, aqui, no chão da sala, vivendo o agora.
+
+Eu vejo você longe… e te quero perto. Fica na minha sombra, eu posso ser teu rastro. Não quero você pela metade. Quero tua boca na minha, tua vida colada na minha. Quero viver contigo esse amor sem filtros, sem medo, sem fim.
+
+Se um dia eu te encontrar do jeito que sonhei, quem sabe a gente viva o que imaginei. Um altar, flores, véu e grinalda, lua de mel, chuva de arroz… e tudo depois. Ninguém mais feliz do que nós dois. A dama de honra pega o buquê, e eu pego tua mão, pra nunca mais soltar.
+
+Chega de fingir. Eu não tenho nada a esconder. Agora é pra valer — haja o que houver. Não tô nem aí pro que dizem. Eu só quero ser feliz… e viver pra ti. Pode me abraçar sem medo. Pode encostar tua mão na minha. Meu amor, deixa o tempo se arrastar sem fim. Não há mal nenhum em gostar assim.
+
+Você me traz tanta leveza que às vezes nem sei se estou no chão ou no ar. O nosso amor tem cheiro de mar, tem tons de verde-água sem fim. Tem o sossego de um fim de tarde, tomando um cházim, ouvindo Lagum tocar.
+
+E com suas mãos segurando as minhas, e os nossos pés firmados sobre a rocha… então prosseguiremos. Porque o amor é isso: verdade, entrega e caminho. E eu quero tudo isso com você.</p>
 
     <div class="languages">
      
@@ -95,7 +160,7 @@ Eu te amo profundamente, e vou te amar como Cristo ama a Sua igreja.</p>
       const heart = document.createElement("div");
       heart.classList.add("heart");
       heart.style.left = Math.random() * 100 + "vw";
-      heart.style.fontSize = Math.random() * 16 + 16 + "px";
+      heart.style.fontSize = Math.random() * 12 + 12 + "px";
       heart.textContent = "❤️";
       document.body.appendChild(heart);
 
@@ -107,21 +172,25 @@ Eu te amo profundamente, e vou te amar como Cristo ama a Sua igreja.</p>
     setInterval(createHeart, 300);
   </script>
 
-</body>
-</html>
-
- body {
+body {
       margin: 0;
        font-family: 'Poppins', sans-serif;
       background: #fff0f5;
       color: #333;
+       background-image: url('amor.png'); /* caminho da sua imagem */
+      background-size: cover; /* faz a imagem cobrir toda a tela */
+      background-repeat: no-repeat; /* evita repetição da imagem */
+      background-position: center; /* centraliza a imagem */
     }
 
     header {
-      background: linear-gradient(to right, #234bb8, #b83131);
-      color: white;
-      padding: 40px 20px;
       text-align: center;
+      padding: 80px 20px 40px;
+      background: linear-gradient(to right, #940005, #c40101);
+    }
+
+    header p{
+      color: #fff;
     }
 
    header h1 {
@@ -161,12 +230,13 @@ Eu te amo profundamente, e vou te amar como Cristo ama a Sua igreja.</p>
       box-shadow: 0 4px 8px rgba(0,0,0,0.2);
     }
 
+    
     .text-content {
       background: #ffe4e1;
       padding: 20px;
       border-radius: 10px;
       margin-top: 30px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
     }
 
     .bible-verses {
@@ -178,6 +248,12 @@ Eu te amo profundamente, e vou te amar como Cristo ama a Sua igreja.</p>
 }
 
 .bible-verses h2 {
+  text-align: center;
+  color: #d63384;
+  margin-bottom: 20px;
+}
+
+.bible-verses h3 {
   text-align: center;
   color: #d63384;
   margin-bottom: 20px;
@@ -205,8 +281,9 @@ Eu te amo profundamente, e vou te amar como Cristo ama a Sua igreja.</p>
     }
 
     footer {
-      background: #ffd1dc;
+      background: #a70000;
       text-align: center;
+      color: #ffe4e1;
       padding: 20px;
       margin-top: 40px;
       font-size: 0.9em;
