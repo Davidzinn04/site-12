@@ -21,8 +21,8 @@
       <figcaption>fazendo aquele treino monstro</figcaption>
     </figure>
     <figure>
-      <img class="fade-in" src="cinema.png" alt="Foto 2" />
-      <figcaption>No cinema juntos</figcaption>
+      <img class="fade-in" src="acade.png" alt="Foto 2" />
+      <figcaption>Eu e a diginissima</figcaption>
     </figure>
     <figure>
       <img class="fade-in" src="praia.png" alt="Foto 3" />
